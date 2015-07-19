@@ -1,1 +1,6 @@
-29de8d5c-2df9-11e5-a4d4-10ddb1bd5983
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO-WORLD.
+* Rock Star hello world program
+PROCEDURE DIVISION.
+    DISPLAY 'Hello world!'.
+    STOP RUN.
